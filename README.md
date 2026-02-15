@@ -14,3 +14,69 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Hri 👋
+
+Full-Stack Developer focused on building structured, scalable applications and exploring AI system design.
+
+---
+
+## 🚀 About Me
+
+- 💻 Building real-world full-stack applications with strong architectural thinking  
+- 🤖 Exploring AI systems, retrieval-based architectures, and LLM integrations  
+- ☁️ Learning backend infrastructure, cloud fundamentals, and system design  
+- 🧠 Passionate about understanding systems from OS to application level  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**  
+Next.js • React • TypeScript • Tailwind CSS  
+
+**Backend**  
+Node.js • Express • MongoDB • Prisma  
+
+**AI & Data**  
+Python • LangChain • Vector Databases • LLM APIs  
+
+**State & Tools**  
+Zustand • Git • REST APIs  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Work Trackr  
+Workforce management system handling attendance tracking, wage calculations, and structured monthly summaries.  
+→ [Repository Link]
+
+### 🔹 Anonymous Feedback Platform  
+Privacy-focused messaging platform with real-time updates and conversation management.  
+→ [Repository Link]
+
+### 🔹 Real-Time Chat Application  
+WebSocket-based communication system implementing event-driven architecture.  
+→ [Repository Link]
+
+### 🔹 RAG Document Assistant  
+Retrieval-augmented question answering system integrating vector search with LLMs.  
+→ [Repository Link]
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+- Portfolio: https://yourportfolio.com  
+- LinkedIn: https://linkedin.com/in/yourprofile  
+
+---
+
