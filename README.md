@@ -49,22 +49,21 @@ Zustand • Git • REST APIs
 
 ### 🔹 Work Trackr  
 Workforce management system handling attendance tracking, wage calculations, and structured monthly summaries.  
+<!--
 → [Repository Link]
-
+-->
 ### 🔹 Anonymous Feedback Platform  
 Privacy-focused messaging platform with real-time updates and conversation management.  
-→ [Repository Link]
 
 ### 🔹 Real-Time Chat Application  
 WebSocket-based communication system implementing event-driven architecture.  
-→ [Repository Link]
 
 ### 🔹 RAG Document Assistant  
 Retrieval-augmented question answering system integrating vector search with LLMs.  
-→ [Repository Link]
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hri-gh&show_icons=true&hide_border=true)
@@ -72,11 +71,12 @@ Retrieval-augmented question answering system integrating vector search with LLM
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hri-gh&layout=compact&hide_border=true)
 
 ---
+-->
 
 ## 🌐 Connect With Me
 
 - Portfolio: https://hri-dev.vercel 
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- LinkedIn: https://linkedin.com/in/hri-gh
 
 ---
 
