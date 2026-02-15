@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **hri-gh/hri-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -67,15 +67,15 @@ Retrieval-augmented question answering system integrating vector search with LLM
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hri-gh&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hri-gh&layout=compact&hide_border=true)
 
 ---
 
 ## 🌐 Connect With Me
 
-- Portfolio: https://yourportfolio.com  
+- Portfolio: https://hri-dev.vercel 
 - LinkedIn: https://linkedin.com/in/yourprofile  
 
 ---
