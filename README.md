@@ -75,7 +75,7 @@ Retrieval-augmented question answering system integrating vector search with LLM
 
 ## 🌐 Connect With Me
 
-- Portfolio: https://hri-dev.vercel 
+- Portfolio: https://hri-dev.vercel.app 
 - LinkedIn: https://linkedin.com/in/hri-gh
 
 ---
