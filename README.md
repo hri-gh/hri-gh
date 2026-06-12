@@ -35,7 +35,7 @@ Full-Stack Developer focused on building structured, scalable applications and e
 Next.js • React • TypeScript • Tailwind CSS  
 
 **Backend**  
-Node.js • Express • MongoDB • Prisma  
+Node.js • Express • MongoDB • Postgres • Prisma  
 
 **AI & Data**  
 Python • LangChain • Vector Databases • LLM APIs  
